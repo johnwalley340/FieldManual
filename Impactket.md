@@ -16,7 +16,7 @@ To install you will need to go to the git hub site and clone the directory form 
 	
 For lots of information on everything in impactket you can visit https://www.secureauth.com/labs/open-source-tools/impacket/ 
 
-Return to [[-README]]
+Return to [[README]]
 	
 	
 	

@@ -8,4 +8,4 @@ You can leverage the screen command to connect to a serial tty:
 
 See [[Screen]] for more info
 
-Return to [[-README]]
+Return to [[README]]

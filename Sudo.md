@@ -3,5 +3,5 @@ Yes we all know what sudo does but there are some tricks of the trade using sudo
 
 	sudo -l
 	
-Return to [[-README]]
+Return to [[README]]
 

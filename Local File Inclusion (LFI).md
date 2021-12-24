@@ -31,4 +31,4 @@ http://example.com/?file=../../../../etc/passwd
 
 In the above example, an attacker can get the contents of the /etc/passwd file that contains a list of users on the server. Similarly, an attacker may leverage the Directory Traversal vulnerability to access log files (for example, Apache access.log or error.log), source code, and other sensitive information. This information may then be used to advance an attack.
 
-Return to [[-README]]
+Return to [[README]]

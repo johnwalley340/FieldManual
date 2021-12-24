@@ -6,4 +6,4 @@ Once these files are copied to the folder you can run updatedb while inside the 
 
 ![[Pasted image 20211219130345.png]]
 
-Return to [[-README]]
+Return to [[README]]

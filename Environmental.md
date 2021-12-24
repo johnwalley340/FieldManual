@@ -2,4 +2,4 @@ The env command will give you the environmental variables for the system you are
 
 ![[Pasted image 20211219133158.png]]
 
-Return to [[-README]]
+Return to [[README]]

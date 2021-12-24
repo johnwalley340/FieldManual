@@ -2,5 +2,5 @@
 
 	fping -a -r 0 -g 10.1.0.0/24 2> /dev/null
 	
-Return to [[-README]]
+Return to [[README]]
 

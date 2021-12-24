@@ -311,7 +311,7 @@ This section only apples to my personal MSI laptop. There are some function keys
 **Important:**
 Make sure you don't leave any lingering ' marks this will break your apt upgrade process and drive you nuts.
 
-Return to [[-README]]
+Return to [[README]]
 
 
 

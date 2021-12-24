@@ -9,4 +9,4 @@ df -hs = file system sizes
 ![[Pasted image 20211219132758.png]]
 
 
-Return to [[-README]]
+Return to [[README]]

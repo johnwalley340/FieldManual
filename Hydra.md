@@ -6,6 +6,6 @@ The syntax is pretty straight forward:
 
 	hydra -l <login name> -p <password> ssh://<target ip>
 	
-Return to [[-README]]
+Return to [[README]]
 
 

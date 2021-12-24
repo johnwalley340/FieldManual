@@ -13,7 +13,7 @@ You can install gobuster using the apt install manager.
 
 	sudo apt install gobuster
 	
-Return to [[-README]]
+Return to [[README]]
 	
 
 

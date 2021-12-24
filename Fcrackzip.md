@@ -8,6 +8,6 @@ you can install fcrackzip using the apt install manager.
 
 fcrackzip -u -D -p '/usr/share/wordlists/rockyou.txt' numbers.zip
 
-Return to [[-README]]
+Return to [[README]]
 
 

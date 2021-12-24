@@ -10,5 +10,5 @@ Python Simple HTTP server runs different based on Python version. Version2 shoul
 
 	python -m SimpleHTTPServer
 
-Return to [[-README]]
+Return to [[README]]
 

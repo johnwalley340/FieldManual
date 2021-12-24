@@ -2,5 +2,5 @@ Knife chef and is a built in tool. if you are on a remote system running chef yo
 
 	sudo knife exec --exec "exec '/bin/bash -i'"
 	
-Return to [[-README]]
+Return to [[README]]
 

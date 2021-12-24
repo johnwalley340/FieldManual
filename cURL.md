@@ -14,7 +14,7 @@ To install cURL you can use the apt install manager.
 
 	sudo apt install curl
 	
-Return to [[-README]]cURL is a text based web browser. This is a favorite go to and I use it on a daily basis for so many purposes from testing HTTP and HTTPS connectivity to downloading malicious code to a target. 
+Return to [[README]]cURL is a text based web browser. This is a favorite go to and I use it on a daily basis for so many purposes from testing HTTP and HTTPS connectivity to downloading malicious code to a target. 
 
 There are a few tips a tricks. First man pages are pretty good for this program. Use them.
 
@@ -30,4 +30,4 @@ To install cURL you can use the apt install manager.
 
 	sudo apt install curl
 	
-Return to [[-README]]
+Return to [[README]]

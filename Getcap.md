@@ -17,4 +17,4 @@ os.system("/bin/bash")
 
 Then simply run the command. 
 
-Retunr to [[-README]]
+Retunr to [[README]]

@@ -10,4 +10,4 @@ Too look information about a domain you can use:
 The -t is the type mx would be for mail servers
 A host without a type will return the ip address
 
-Return to [[-README]]
+Return to [[README]]

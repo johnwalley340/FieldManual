@@ -7,4 +7,4 @@ For server
 
 	set server <ipaddress>
 	
-Return to [[-README]]
+Return to [[README]]

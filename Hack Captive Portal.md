@@ -12,4 +12,4 @@ You can run the command by simply running the .sh file
 
 	./hack-captive.sh
 	
-Return to [[-README]]
+Return to [[README]]

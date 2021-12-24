@@ -24,5 +24,5 @@ Here is the find command to look at all files you can execute as that user.
 
 	find / -perm -u=s -type f 2>/dev/null
 	
-Return to [[-README]]
+Return to [[README]]
 

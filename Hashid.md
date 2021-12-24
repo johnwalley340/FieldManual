@@ -4,4 +4,4 @@ This is a great little program to find the hash type. The commands are simple:
 
 You can add a -m for the hashcat mode or a -j for the john format!
 
-Return to [[-README]]
+Return to [[README]]

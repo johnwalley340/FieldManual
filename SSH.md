@@ -20,4 +20,4 @@ The conf. for proxychains is /etc/proxychains.conf
 >Socks 5= ssh
 Socks 4= metasploit
 
-Return to [[-README]]
+Return to [[README]]

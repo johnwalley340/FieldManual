@@ -11,4 +11,4 @@ After cloning the directory I also untar the rockyou.txt file
 
 	tar xvf ./SecLists/Passwords/Leaked-Databases/rockyou.txt.tar.gz
 
-Return to [[-README]]
+Return to [[README]]

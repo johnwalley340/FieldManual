@@ -10,4 +10,4 @@ to show contents os a full table you can use the SELECT command
 
 	SELECT * FROM <tablename>
 	
-Return to [[-README]]
+Return to [[README]]

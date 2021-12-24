@@ -12,4 +12,4 @@ you can see the format by simply typing hashcat --help
 
 For more information this is a pretty good site: https://linuxhint.com/hashcat-tutorial/
 
-Return to [[-README]]
+Return to [[README]]

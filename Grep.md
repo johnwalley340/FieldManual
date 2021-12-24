@@ -6,4 +6,4 @@ Grep comes installed on all Linux and Unix systems. Grep is used for searching t
 -n will number the lines.
 -i will ignore case
 
-Return to [[-README]]
+Return to [[README]]

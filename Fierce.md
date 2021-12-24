@@ -6,5 +6,5 @@ Fierce is a python based tool and can be easily installed using pip.
 
 	pip install fierce
 	
-Return to [[-README]]
+Return to [[README]]
 
