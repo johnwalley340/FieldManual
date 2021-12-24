@@ -6,6 +6,7 @@ To restart the crontab service you type: service cron restart, start, stop etc.
 
 ![[Pasted image 20211219125905.png]]
 
+
 Return to [[README]]
 
 
