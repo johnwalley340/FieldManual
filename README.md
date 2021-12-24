@@ -7,18 +7,54 @@ For the best reading experience download and install Obsidian for note taking. Y
 
 ## Index
 
-| Type | List |
-| :---------- | :---------- |
-| Builds | [[Ubuntu Build]] |
-| Tools |[[7zip]] [[DNSrecon]] [[Fcrackzip]] [[Fierce]] |
-| Tools | [[Fping]] [[Getcap]] [[GoBuster]] [[Hack Captive Portal]] |
-| Tools | [[Hashcat]] [[Hashid]] [[Hydra]] [[LinEnum]] |
-| Tools | [[Masscan]] [[Metasploit]] [[msfvenom]] [[MySQL]] |
-| Tools | [[Netcat (nc)]]  |
-| Commands | [[Cron]] [[cURL]] [[Disk]] [[Environmental]] |
-| Commands | [[Find]] [[Grep]] [[Guestmount]] [[Host]] |
-| Commands | [[Knife (chef)]] [[LocalFileInclusion]] [[Net]] [[Nslookup]] |
-| Commands | [[Powershell]] [[Python Webserver]] [[Rsync]] [[Screen]] |
-| Commands  | |
-| Other | [[HTML Codes]] |
+- [[7zip]]
+- [[Cron]]
+- [[cURL]]
+- [[Disk]]
+- [[DNSrecon]]
+- [[Environmental]]
+- [[Fcrackzip]]
+- [[Fierce]]
+- [[Find]]
+- [[Fping]]
+- [[Getcap]]
+- [[GoBuster]]
+- [[Grep]]
+- [[Guestmount]]
+- [[Hack Captive Portal]]
+- [[Hashcat]]
+- [[Hashid]]
+- [[Host]]
+- [[HTML Codes]]
+- [[Hydra]]
+- [[Impactket]]
+- [[Knife (chef)]]
+- [[LinEnum]]
+- [[LocalFileInclusion]]
+- [[Masscan]]
+- [[Metasploit]]
+- [[msfvenom]]
+- [[MySQL]]
+- [[Net]]
+- [[Netcat (nc)]]
+- [[Nslookup]]
+- [[Powershell]]
+- [[Python Webserver]]
+- [[Rsync]]
+- [[Screen]]
+- [[SecLists]]
+- [[Serial]]
+- [[Shell]]
+- [[Shellshock]]
+- [[SMBClient]]
+- [[SMBmap]]
+- [[SQL Inejction]]
+- [[SSH]]
+- [[Sudo]]
+- [[SUID]]
+- [[TheHarvestor]]
+- [[Ubuntu Build]]
+- [[Wordpress]]
+- [[xfreerdp]]
+
 

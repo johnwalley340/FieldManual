@@ -1,4 +1,4 @@
-## Upgrade Shell
+## Get full shell
 
 ### Bash
 To create get a full shell on a target you can try a simple bash upgrade like 

@@ -275,7 +275,7 @@ After cloning the directory I also untar the rockyou.txt file
 
 	tar xvf ./SecLists/Passwords/Leaked-Databases/rockyou.txt.tar.gz
 	
-More on Wordlists here: [[Wordlists]]
+More on Wordlists here: [[SecLists]]
 
 ## GoBuster
 This is by far my favorite web directory enumeration tool. You can install via the apt install manager.
