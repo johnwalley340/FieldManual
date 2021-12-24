@@ -7,11 +7,11 @@ For the best reading experience download and install Obsidian for note taking. Y
 
 ## Index
 
-- [[7zip]]
-- [[Cron]]
-- [[cURL]]
-- [[Disk]]
-- [[DNSrecon]]
+- [7zip](7zip.md)
+- [Cron](Cron.md)
+- [cURL](cURL.md)
+- [Disk](Disk.md)
+- [DNSrecon](DNSrecon.md)
 - [[Environmental]]
 - [[Fcrackzip]]
 - [[Fierce]]
