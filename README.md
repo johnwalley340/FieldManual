@@ -12,49 +12,47 @@ For the best reading experience download and install Obsidian for note taking. Y
 - [cURL](cURL.md)
 - [Disk](Disk.md)
 - [DNSrecon](DNSrecon.md)
-- [[Environmental]]
-- [[Fcrackzip]]
-- [[Fierce]]
-- [[Find]]
-- [[Fping]]
-- [[Getcap]]
-- [[GoBuster]]
-- [[Grep]]
-- [[Guestmount]]
-- [[Hack Captive Portal]]
-- [[Hashcat]]
-- [[Hashid]]
-- [[Host]]
-- [[HTML Codes]]
-- [[Hydra]]
-- [[Impactket]]
-- [[Knife (chef)]]
-- [[LinEnum]]
-- [[LocalFileInclusion]]
-- [[Masscan]]
-- [[Metasploit]]
-- [[msfvenom]]
-- [[MySQL]]
-- [[Net]]
-- [[Netcat (nc)]]
-- [[Nslookup]]
-- [[Powershell]]
-- [[Python Webserver]]
-- [[Rsync]]
-- [[Screen]]
-- [[SecLists]]
-- [[Serial]]
-- [[Shell]]
-- [[Shellshock]]
-- [[SMBClient]]
-- [[SMBmap]]
-- [[SQL Inejction]]
-- [[SSH]]
-- [[Sudo]]
-- [[SUID]]
-- [[TheHarvestor]]
-- [[Ubuntu Build]]
-- [[Wordpress]]
-- [[xfreerdp]]
-
-
+- [Environmental](Environmental.md)
+- [Fcrackzip](Fcrackzip.md)
+- [Fierce](Fierce.md)
+- [Find](Find)
+- [Fping](Fping.md)
+- [Getcap](Getcap.md)
+- [GoBuster](GoBuster.md)
+- [Grep](Grep)
+- [Guestmount](Guestmount.md)
+- [Hack Captive Portal](HackCaptivePortal.md)
+- [Hashcat](Hashcat.md)
+- [Hashid](Hashid.md)
+- [Host](Host.md)
+- [HTMLCodes](HTMLCodes.md)
+- [Hydra](Hydra.md)
+- [Impactket](Impactket.md)
+- [Knife(chef)](Knife(chef).md)
+- [LinEnum](LinEnum.md)
+- [LocalFileInclusion](LocalFileInclusion.md)
+- [Masscan](Masscan.md)
+- [Metasploit](Metasploit.md)
+- [msfvenom](msfvenom.md)
+- [MySQL](MySQL.md)
+- [Net](Net.md)
+- [Netcat(nc)](Netcat(nc).md)
+- [Nslookup](Nslookup.md)
+- [Powershell](Powershell.md)
+- [PythonWebserver](PythonWebserver.md)
+- [Rsync](Rsync.md)
+- [Screen](Screen.md)
+- [SecLists](SecLists.md)
+- [Serial](Serial.md)
+- [Shell](Shell.md)
+- [Shellshock](Shellshock.md)
+- [SMBClient](SMBClient.md)
+- [SMBmap](SMBmap.md)
+- [SQLInejction](SQLInejction.md)
+- [SSH](SSH.md)
+- [Sudo](Sudo.md)
+- [SUID](SUID.md)
+- [TheHarvestor](TheHarvestor.md)
+- [UbuntuBuild](UbuntuBuild.md)
+- [Wordpress](Wordpress.md)
+- [xfreerdp](xfreerdp.md)
