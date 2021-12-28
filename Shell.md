@@ -15,6 +15,14 @@ If simple bash/sh command don't work and the system supports python you are in l
 
 	python3 -c 'import pty;pty.spawn("/bin/bash");'
 	
+for python2 you will wan tot use the following command
+
+	python -c 'import pty;pty.spawn("/bin/bash");'
+	
+If you still do not have a full shell you can try
+
+	export TERM=xterm
+	
 Return to [[README]]
 
 
