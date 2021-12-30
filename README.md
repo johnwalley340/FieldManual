@@ -8,6 +8,7 @@ For the best reading experience download and install Obsidian for note taking. Y
 ## Index
 
 - [7zip](7zip.md)
+- [Chisel](Chisel.md)
 - [Cron](Cron.md)
 - [cURL](cURL.md)
 - [Disk](Disk.md)
@@ -56,4 +57,3 @@ For the best reading experience download and install Obsidian for note taking. Y
 - [UbuntuBuild](UbuntuBuild.md)
 - [Wordpress](Wordpress.md)
 - [xfreerdp](xfreerdp.md)
-- Chisel (need a section on Chisel)

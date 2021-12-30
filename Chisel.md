@@ -10,3 +10,5 @@ Install works though a go compiler. to install you have to run as root not sudo
 	sudo bash
 	go get -v github.com/jpillora/chisel
 	
+Return to [[README]]
+	
