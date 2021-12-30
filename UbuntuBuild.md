@@ -100,6 +100,23 @@ To upload the key to other machines you can simply use the ssh-copy command.
 
 	ssh-copy-id -i </link to .pub file> user@ipaddress
 	
+## Go 
+Installing go.Many programs are now use the go language such as gobuster and chisel. This mean you will need it of you want to customize any tools or upgrade to better versions. 
+
+to install, vist the website https://go.dev/doc/install and download the most recent package. 
+
+After you download you want to change directories to downloads and run the following command:
+	
+	 tar -C /home/jwalley/toolbox/scripts/ -xzf go1.17.5.linux-amd64.tar.gz
+	 
+For later versions than above simply replace the file name for hte latest version. The above command will extract teh go complier into the scripts directory. Next you will need to modify the path to inclide the go binanaries so they can be run from anywhere. 
+
+	export PATH=$PATH:/home/jwalley/toolbox/scripts/go/bin
+
+You should be ready. You can test this with the following command. 
+
+	go version
+
 ## Git
 Go to https://github.com/settings/keys and either upload the new key for this computer or copy your private key over to you new computer and put in the home ~/.ssh folder. 
 

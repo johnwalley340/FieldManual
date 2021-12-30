@@ -56,3 +56,4 @@ For the best reading experience download and install Obsidian for note taking. Y
 - [UbuntuBuild](UbuntuBuild.md)
 - [Wordpress](Wordpress.md)
 - [xfreerdp](xfreerdp.md)
+- Chisel (need a section on Chisel)
