@@ -315,6 +315,29 @@ Okay now the the fluffy stuff. lets make it so we can play with login screens, b
 
 Once installed open tweaks in the app selection window and go to appearance. Change the setting to yaru dark.
 
+## Change-gdm-background
+To cahnge the background login screen there are some system changes that will be needed. I have foundthis is hte best tool for the job.
+
+First you will need to install the proper libraries and supporting files
+
+	sudo apt install libglib2.0-dev-bin
+	
+After the proper linray is install you can now a script from git hub to comeplte the task. 
+
+	cd ~/toolbox/scripts
+	git clone https://github.com/thiggy01/change-gdm-background.git
+	chmod +x change-gdm-background
+	
+Then run the script and point it to the file you want to be your backgroundxample:
+
+	sudo ./change-gdm-background ~/Pictures/loginScreen.jpg
+	
+To make future cahnages you can simply download a new image and rename it to loginScreen.jpg and it will update.
+
+to restore you can run:
+
+	sudo ./change-gdm-background --restore
+
 ## Discord
 I use this to chat, share screen, and troubleshoot when it isn't in a professional setting. You can install Discord using the snap installer:
 
