@@ -40,6 +40,41 @@ install vim
 
 	sudo apt install vim
 
+## cURL
+
+cURL is by far the best tool for testing web connectivity but it also allows for website calls and downloads from command line. its basically a text based web browser. To install cURL on Linux you can utilize the apt install manager.
+
+	sudo apt install curl
+
+More on cURL can be found here [[cURL]]
+
+## Git
+Go to https://github.com/settings/keys and either upload the new key for this computer or copy your private key over to you new computer and put in the home ~/.ssh folder. 
+
+	install git
+	sudo apt install git
+
+Set up global configurations
+
+	git config --global user.email "<email@address.com>"
+	git config --global user.name "<MyName>"
+
+To sync local to GitHub use the following commands in sequence. 
+Add all files in folder
+
+	git add .
+
+Commit all changes and add change notes
+
+	git commit -m
+
+when you are ready to upload to the remote repository. note the branch for the Field Manual is master. sometime this is main instead of master. zsh will identify your current branch.
+
+![[Pasted image 20211219103726.png]]
+
+	git push origin master
+
+
 ## ZSH
 I wasn't an early adopter of zsh but i grew to love it as i worked more and more with git. Now I love it and there are so many themes that you can install any flavor you like. To install you can use the apt install manager.
 
@@ -117,49 +152,12 @@ You should be ready. You can test this with the following command.
 
 	go version
 
-## Git
-Go to https://github.com/settings/keys and either upload the new key for this computer or copy your private key over to you new computer and put in the home ~/.ssh folder. 
-
-	install git
-	sudo apt install git
-
-Set up global configurations
-
-	git config --global user.email "<email@address.com>"
-	git config --global user.name "<MyName>"
-
-To sync local to GitHub use the following commands in sequence. 
-Add all files in folder
-
-	git add .
-
-Commit all changes and add change notes
-
-	git commit -m
-
-when you are ready to upload to the remote repository. note the branch for the Field Manual is master. sometime this is main instead of master. zsh will identify your current branch.
-
-![[Pasted image 20211219103726.png]]
-
-	git push origin master
-
-## Vim
-Install vim. This may already be installed but it is good to check. 
-
-	sudo apt install vim
 
 ## NMAP
 NMAP is the most powerful tool available when it come to red team and pen testing. To install NMAP you can use apt install
 
 	sudo apt install nmap
 
-## cURL
-
-cURL is by far the best tool for testing web connectivity but it also allows for website calls and downloads from command line. its basically a text based web browser. To install cURL on Linux you can utilize the apt install manager.
-
-	sudo apt install curl
-
-More on cURL can be found here [[cURL]]
 
 ## Metasploit-Framework
 This is a stand alone version and updates apart from the OS unlike on Kali. The command below is correct wit the spacing do not change it to install Metasploit. Copy the whole section below and paste. The command below may change from time to time. you can see the install string here: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers 
@@ -295,9 +293,7 @@ After cloning the directory I also untar the rockyou.txt file
 More on Wordlists here: [[SecLists]]
 
 ## GoBuster
-This is by far my favorite web directory enumeration tool. You can install via the apt install manager.
-
-	sudo apt install gobuster
+This is by far my favorite web directory enumeration tool. You can install via the apt install manager. Detailed install instructions in the link below
 	
 For more on Gobuster [[GoBuster]]
 
@@ -346,7 +342,7 @@ I use this to chat, share screen, and troubleshoot when it isn't in a profession
 ## Function Keys working
 This section only apples to my personal MSI laptop. There are some function keys that will not work without updating grub. editing the /etc/default/gfrb file and replacing the the line GRUB_CMDLINE_LINUX_DEFAULT="quiet splash" with GRUB_CMDLINE_LINUX_DEFAULT="acpi_osi=! acpi_osi='Windows 2009' quiet splash" will fix the functions key issue. 
 
->GRUB_CMDLINE_LINUX_DEFAULT="acpi_osi=! acpi_osi='Windows 2009' quiet splash"
+>
 
 **Important:**
 Make sure you don't leave any lingering ' marks this will break your apt upgrade process and drive you nuts.

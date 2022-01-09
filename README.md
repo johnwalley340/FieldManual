@@ -32,6 +32,8 @@ For the best reading experience download and install Obsidian for note taking. Y
 - [Knife(chef)](Knife(chef).md)
 - [LinEnum](LinEnum.md)
 - [LocalFileInclusion](LocalFileInclusion.md)
+- [LXD](LXD.md)
+- [LocalFileInclusion](LocalFileInclusion.md)
 - [Masscan](Masscan.md)
 - [Metasploit](Metasploit.md)
 - [msfvenom](msfvenom.md)
