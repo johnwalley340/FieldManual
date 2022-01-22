@@ -312,7 +312,7 @@ Okay now the the fluffy stuff. lets make it so we can play with login screens, b
 Once installed open tweaks in the app selection window and go to appearance. Change the setting to yaru dark.
 
 ## Change-gdm-background
-To cahnge the background login screen there are some system changes that will be needed. I have foundthis is hte best tool for the job.
+To change the background login screen there are some system changes that will be needed. I have found this is the best tool for the job.
 
 First you will need to install the proper libraries and supporting files
 
